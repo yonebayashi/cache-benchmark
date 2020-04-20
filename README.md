@@ -4,6 +4,8 @@
 
 ### How to run
 
+Make sure you have Boost 1.69.0 installed. Check the previous [repository](https://github.com/yonebayashi/network-cache) for guidelines on dependency installation for this program.
+
 To build the program,
 
 ```
